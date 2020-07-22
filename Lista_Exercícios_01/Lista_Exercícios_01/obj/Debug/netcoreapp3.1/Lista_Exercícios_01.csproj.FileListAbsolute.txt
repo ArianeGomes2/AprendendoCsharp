@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\bin\Debug\netcoreapp3.1\Lista_Exercícios_01.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Lista_Exercícios_01\Lista_Exercícios_01\obj\Debug\netcoreapp3.1\Lista_Exercícios_01.genruntimeconfig.cache
