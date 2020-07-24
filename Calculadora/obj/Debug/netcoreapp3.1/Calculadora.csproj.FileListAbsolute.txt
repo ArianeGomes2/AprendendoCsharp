@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
