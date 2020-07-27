@@ -25,12 +25,12 @@ namespace Calculadora
             
             double opcao = double.Parse(Console.ReadLine());
 
-            double soma = 0;
-            double subtracao = 0;
-            double multiplicacao = 0;
-            double divisao = 0;
-            double quadrado1 = 0;
-            double quadrado2 = 0;
+            double soma;
+            double subtracao;
+            double multiplicacao;
+            double divisao;
+            double quadrado1;
+            double quadrado2;
 
             if (opcao == 1)
             {
