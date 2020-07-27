@@ -7,29 +7,23 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
-            Console.WriteLine("\n*************** Calculadora ***************");
+            Console.WriteLine("*************** Calculadora ***************");
 
-            Console.WriteLine("\nInsira o primeiro valor:");
-            double valor1;
-            valor1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Insira o primeiro valor:");
+           double valor1 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("\nInsira o segundo valor:");
-            double valor2;
-            valor2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Insira o segundo valor:");
+            double valor2 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Escolha a operação desejada");
 
-            Console.WriteLine("\n(1)-Soma " + (" ") +
-                "(2)-Subtração " + (" ") +
-                "(3)-Multiplicação " + (" ") +
-                "(4)-Divisão " + (" ") +
-                "(5)-Elevado Ao Quadrado ");
-
-            Console.WriteLine();
+            Console.WriteLine("(1)-Soma " +
+                " (2)-Subtração " +
+                " (3)-Multiplicação " +
+                " (4)-Divisão " + 
+                " (5)-Elevado Ao Quadrado ");
             
-            double opcao;
-            opcao = double.Parse(Console.ReadLine());
+            double opcao = double.Parse(Console.ReadLine());
 
             double soma = 0;
             double subtracao = 0;
