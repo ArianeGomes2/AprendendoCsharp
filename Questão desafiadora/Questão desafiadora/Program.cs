@@ -18,10 +18,10 @@ namespace Questão_desafiadora
                 int valor2 = int.Parse(Console.ReadLine());
 
                 Console.WriteLine("Escolha a opção desejada: " +
-                    "1- Par" +
-                    "2- Ímpar" +
-                    "3- Primo" +
-                    "0- Sair do Programa");
+                    " 1- Par" +
+                    " 2- Ímpar" +
+                    " 3- Primo" +
+                    " 0- Sair do Programa");
 
                 opcao = int.Parse(Console.ReadLine());
 
