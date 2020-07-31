@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista de Exercícios 1", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "..\Calculadora\Calculadora.csproj", "{067FE82F-22A2-44E6-A970-BEBD434549FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora com Switch", "..\Calculadora com Switch\Calculadora com Switch\Calculadora com Switch.csproj", "{7F18FDDC-4F4E-49C4-9F8E-FB8790E9425B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{067FE82F-22A2-44E6-A970-BEBD434549FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067FE82F-22A2-44E6-A970-BEBD434549FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067FE82F-22A2-44E6-A970-BEBD434549FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F18FDDC-4F4E-49C4-9F8E-FB8790E9425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F18FDDC-4F4E-49C4-9F8E-FB8790E9425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F18FDDC-4F4E-49C4-9F8E-FB8790E9425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F18FDDC-4F4E-49C4-9F8E-FB8790E9425B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

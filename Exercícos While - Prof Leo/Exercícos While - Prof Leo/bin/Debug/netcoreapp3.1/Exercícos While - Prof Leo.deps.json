@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercícos While - Prof Leo/1.0.0": {
+        "runtime": {
+          "Exercícos While - Prof Leo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercícos While - Prof Leo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\bin\Debug\netcoreapp3.1\Exercícos While - Prof Leo.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Exercícos While - Prof Leo\Exercícos While - Prof Leo\obj\Debug\netcoreapp3.1\Exercícos While - Prof Leo.genruntimeconfig.cache
