@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\bin\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 5 - Lista 2 (Do While)\Questão 5 - Lista 2 (Do While)\obj\Debug\netcoreapp3.1\Questão 5 - Lista 2 (Do While).genruntimeconfig.cache
