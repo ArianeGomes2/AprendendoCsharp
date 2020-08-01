@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\bin\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 4 - Lista 2 (While)\Questão 4 - Lista 2 (While)\obj\Debug\netcoreapp3.1\Questão 4 - Lista 2 (While).genruntimeconfig.cache
