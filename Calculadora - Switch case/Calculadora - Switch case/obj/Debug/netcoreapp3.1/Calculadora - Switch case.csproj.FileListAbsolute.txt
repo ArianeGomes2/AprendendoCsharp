@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\bin\Debug\netcoreapp3.1\Calculadora - Switch case.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Calculadora - Switch case\Calculadora - Switch case\obj\Debug\netcoreapp3.1\Calculadora - Switch case.genruntimeconfig.cache
