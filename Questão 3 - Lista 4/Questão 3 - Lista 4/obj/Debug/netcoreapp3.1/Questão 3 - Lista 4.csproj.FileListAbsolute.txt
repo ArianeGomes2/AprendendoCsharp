@@ -1,0 +1,13 @@
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.exe
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.deps.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.runtimeconfig.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.runtimeconfig.dev.json
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\bin\Debug\netcoreapp3.1\Questão 3 - Lista 4.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.csprojAssemblyReference.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.csproj.CoreCompileInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.AssemblyInfoInputs.cache
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.AssemblyInfo.cs
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.dll
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.pdb
+D:\Ariane\PROJETOS\AprendendoCsharp\Questão 3 - Lista 4\Questão 3 - Lista 4\obj\Debug\netcoreapp3.1\Questão 3 - Lista 4.genruntimeconfig.cache
